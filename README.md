@@ -1,4 +1,5 @@
 # Flutter Social App 
+ <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
