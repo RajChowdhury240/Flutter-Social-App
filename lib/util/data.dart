@@ -93,3 +93,4 @@ List friends = List.generate(13, (index)=>{
   "status": "Anything could be here",
   "isAccept": random.nextBool(),
 });
+
