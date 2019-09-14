@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:social_app_ui/screens/conversation.dart';
 
-
 class ChatItem extends StatefulWidget {
 
   final String dp;
