@@ -3,7 +3,6 @@ import 'package:flutter/services.dart';
 import 'package:social_app_ui/screens/main_screen.dart';
 import 'package:social_app_ui/util/const.dart';
 
-
 void main() async{
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]).then((_) {
     runApp(MyApp());
