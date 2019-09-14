@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 class IconBadge extends StatefulWidget {
 
   final IconData icon;
