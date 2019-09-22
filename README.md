@@ -7,7 +7,6 @@
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-
 ## 📸 ScreenShots
 
 <img src="ss/1.png"/>
